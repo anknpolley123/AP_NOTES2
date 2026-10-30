@@ -103,8 +103,23 @@ Potential areas for future development include:
 These improvements are ideas for future development, not a guarantee that they are implemented or planned for a particular release.
 
 ---
+## ⚠️ Disclaimer
 
-🤝 Contributing
+AP_NOTES2 is developed by Ankon Polley for note-taking, document management, and productivity purposes.
+
+- No Warranty: This software is provided "AS IS", without warranty of any kind, express or implied, to the extent permitted by applicable law.
+- Data Responsibility: Users are responsible for maintaining backups of their notes, documents, and other important data.
+- Data Loss: The developer is not responsible for data loss, corruption, or other damages resulting from the use or inability to use the software, to the extent permitted by applicable law.
+- Third-Party Services: If the application integrates third-party libraries, services, or APIs, those components may be subject to their own terms, licenses, and privacy policies.
+- Security: Although reasonable efforts may be made to improve application security, no software can be guaranteed to be completely secure.
+- Open-Source License: This project is distributed under the GNU General Public License (GPL). Refer to the repository's "LICENSE" file for the applicable license version and terms.
+
+By using this application, you acknowledge that you are responsible for how you use it and for safeguarding your data.
+
+Contact: For bug reports, questions, or suggestions, please open an issue in the "AP_NOTES2 GitHub repository" (https://github.com/anknpolley123/AP_NOTES2/issues).
+
+---
+## 🤝 Contributing
 
 Contributions, suggestions, and bug reports are welcome.
 
@@ -117,6 +132,13 @@ If you would like to contribute:
 
 Please keep contributions focused, understandable, and consistent with the project's goals.
 
+## 📄 License
+
+This project is licensed under the GNU General Public License (GPL).
+
+You are free to use, study, modify, and redistribute this software under the terms of the applicable GPL license.
+
+See the ""LICENSE"" (LICENSE) file for the full license text and conditions.
 ---
 
 🐛 Issues and Feedback
