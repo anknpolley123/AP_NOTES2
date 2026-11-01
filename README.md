@@ -118,7 +118,6 @@ By using this application, you acknowledge that you are responsible for how you 
 
 Contact: For bug reports, questions, or suggestions, please open an issue in the "AP_NOTES2 GitHub repository" (https://github.com/anknpolley123/AP_NOTES2/issues).
 
----
 
 ## Contact
 
@@ -126,7 +125,6 @@ Contact: For bug reports, questions, or suggestions, please open an issue in the
   <a href="mailto:ankonpolley@proton.me"><img src="https://img.shields.io/badge/Proton_Mail-Contact_Me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact Ankon via Proton Mail" /></a>
 </p>
 
----
 
 ## 🤝 Contributing
 
