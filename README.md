@@ -25,7 +25,7 @@ The project aims to support the following capabilities, depending on the feature
 
 ---
 
-🎯 Project Goals
+## 🎯 Project Goals
 
 AP_NOTES2 aims to make digital note-taking easier by focusing on:
 
@@ -70,7 +70,7 @@ For Android projects, ensure the required development tools and SDKs are install
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
 The exact directory structure depends on the current implementation.
 
@@ -87,7 +87,7 @@ This is an illustrative example, not a description of the repository's actual fi
 
 ---
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Potential areas for future development include:
 
@@ -119,7 +119,7 @@ By using this application, you acknowledge that you are responsible for how you 
 Contact: For bug reports, questions, or suggestions, please open an issue in the "AP_NOTES2 GitHub repository" (https://github.com/anknpolley123/AP_NOTES2/issues).
 
 
-## Contact
+## 📧 Contact
 
 <p align="left">
   <a href="mailto:ankonpolley@proton.me"><img src="https://img.shields.io/badge/Proton_Mail-Contact_Me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact Ankon via Proton Mail" /></a>
@@ -148,7 +148,7 @@ You are free to use, study, modify, and redistribute this software under the ter
 See the ""LICENSE"" (LICENSE) file for the full license text and conditions.
 ---
 
-🐛 Issues and Feedback
+## 🐛 Issues and Feedback
 
 Found a bug or have a suggestion?
 
@@ -160,7 +160,7 @@ Include relevant details so the problem or suggestion can be understood clearly.
 
 ---
 
-👨‍💻 Developer
+## 👨‍💻 Developer
 
 Ankon Polley
 
