@@ -49,7 +49,7 @@ Repository: "AP_NOTES2" (https://github.com/anknpolley123/AP_NOTES2)
 
 # 🚀 Getting Started
 
- '''bash
+```bash
 1. Clone the Repository
 
 git clone https://github.com/anknpolley123/AP_NOTES2.git
@@ -57,7 +57,7 @@ git clone https://github.com/anknpolley123/AP_NOTES2.git
 2. Open the Project
 
 cd AP_NOTES2
- '''
+```
 3. Set Up the Project
 
 Follow the installation instructions appropriate to the framework and dependencies used by the project.
